@@ -3,6 +3,7 @@ import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 import './src/todo.js'
+import 'flowbite/dist/flowbite.min.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
